@@ -5,7 +5,7 @@ title:  "No, I am not a 10x Software Engineer"
 
 But I can get things done
 
-I recently decided to go for a freelancing gig in iOS development. My first client asked me this question “I want to work only with the best people. Are you a 1ox software engineer?”. I was taken aback by this question. I did not know how to reply to him. After a few moments, I replied “I don’t know whether I am 1x, 2x or 10x. But I can get your work done.”
+I recently decided to go for a freelancing gig in iOS development. My first client asked me this question “I want to work only with the best people. Are you a 10x software engineer?”. I was taken aback by this question. I did not know how to reply to him. After a few moments, I replied “I don’t know whether I am 1x, 2x or 10x. But I can get your work done.”
 
 I got the work and after 15 days the client was so happy with my output that he labelled me as a 10x engineer. This made me think what is this fuss about 10x engineers. Do they really exist?
 
